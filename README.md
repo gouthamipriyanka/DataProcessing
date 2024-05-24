@@ -23,5 +23,5 @@ You can view the notebook directly on GitHub by navigating to the `.ipynb` file.
 1. Open Google Colab.
 2. Click on File > Open notebook.
 3. Navigate to the GitHub tab.
-4. Enter the repository URL and find the notebook file.
+4. Enter the repository URL (https://github.com/gouthamipriyanka/DataProcessing) and find the notebook file.
 5. Click Open to open and run the notebook in Google Colab.
